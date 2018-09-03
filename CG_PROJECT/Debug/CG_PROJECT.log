@@ -1,0 +1,31 @@
+﻿  Source.cpp
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(291): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(300): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(301): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(302): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(303): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(484): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(639): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(773): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(808): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(815): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(837): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(844): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(868): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(879): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(902): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(913): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(920): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(927): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(934): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(941): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(948): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(955): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(962): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(968): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(974): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(981): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(988): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(995): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\farza\source\repos\cg_project\cg_project\source.cpp(1000): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  CG_PROJECT.vcxproj -> C:\Users\farza\source\repos\CG_PROJECT\Debug\CG_PROJECT.exe
